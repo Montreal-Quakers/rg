@@ -8,7 +8,7 @@ en:
       childlink: /intro.html
     - childtitle: Links & History
       childlink: /links_history.html
-- title: Our Meetings &nbsp;<i class='fas fa-map-marker-alt'></i>
+- title: St. Lawrence Quaker Meetings &nbsp;<i class='fas fa-map-marker-alt'></i>
   subtitle: Where We Meet
   children:
     - childtitle: Ottawa
@@ -36,6 +36,19 @@ fr:
       childlink: /intro-fr.html
     - childtitle: Liens & histoire
       childlink: /liens_histoire.html
+- title: Les assembées Quaker sur le Saint-Laurent &nbsp;<i class='fas fa-map-marker-alt'></i>
+  subtitle: Trouvez nos assemblées
+  children:
+    - childtitle: Ottawa
+      childlink: http://ottawa.quaker.ca/
+    - childtitle: Montreal
+      childlink: https://montreal.quaker.ca/fr/accueil/
+    - childtitle: Peterborough
+      childlink: http://www.peterborough.quaker.ca/
+    - childtitle: Wooler
+      childlink: https://quaker.ca/meeting/wooler-monthly-meeting/
+    - childtitle: Thousand Islands
+      childlink: http://kingston.quaker.ca/
 - title: Nouvelles &nbsp;<i class='fas fa-rss'></i></a>
   subtitle: Nos mises à jour
   link: /nouvelles.html
