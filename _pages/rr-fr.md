@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: fr
-title: <i class="fas fa-stream"></i> À propos du rassemblement régional
+title: <i class="fas fa-stream color-1-dark-text"></i> À propos du rassemblement régional
 trans: rg
 permalink: /rr-fr.html
 ---
