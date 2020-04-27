@@ -1,11 +1,11 @@
 ---
 layout: default
-title: <i class="far fa-newspaper"></i> &nbsp;Nouvelles &nbsp;<i class="fas fa-bullhorn"></i>
+title: <i class="far fa-newspaper"></i> &nbsp;Nouvelles
 lang: fr
 trans: news
-permalink: /nouvelles.html
+permalink: /index-fr.html
 ---
-Nous avisons notre communauté des événements du mois d'habitude par une liste d'envoi, disponible pour ceux et celles qui s'y inscrivent à une de nos assemblées. Si quelqu'un aimerait s'ajouter à cette liste, il suffit de nous [contacter](contact-fr.html). Cette page, comme la page Facebook, annonce des événements majeurs tenus par l'Assemblée Quaker de Montréal.
+Les mises à jour au sujet du [Rassemblement régional Saint-Laurent des Quakers](/rr-fr.html):
 
 <ul>
 {% assign posty = site.posts | where:"lang","fr" %}
