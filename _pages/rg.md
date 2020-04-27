@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: en
-title: <i class="fas fa-stream"></i> About Regional Gathering
+title: <i class="fas fa-stream color-1-dark-text"></i> About Regional Gathering
 trans: rg
 permalink: /rg.html
 ---
