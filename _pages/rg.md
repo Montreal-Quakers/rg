@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: en
-title: <i class="fas fa-stream"></i> [About Regional Gathering](/about.html)
+title: <i class="fas fa-stream"></i> About Regional Gathering
 trans: rg
 permalink: /rg.html
 ---
