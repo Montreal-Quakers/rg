@@ -26,3 +26,19 @@ en:
   link: /posts.html
 - title: Contact Us &nbsp;<i class='far fa-envelope-open'></i>
   link: /contact.html
+
+fr:
+- title: À propos &nbsp;<i class='far fa-address-card'></i>
+  children:
+    - childtitle: Déroulement
+      childlink: /a_propos.html
+    - childtitle: Présentation des Quakers
+      childlink: /intro-fr.html
+    - childtitle: Liens & histoire
+      childlink: /liens_histoire.html
+- title: Nouvelles &nbsp;<i class='fas fa-rss'></i></a>
+  subtitle: Nos mises à jour
+  link: /nouvelles.html
+- title: Contact &nbsp;<i class='far fa-envelope-open'></i>
+  link: /contact-fr.html
+
