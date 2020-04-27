@@ -3,7 +3,7 @@ layout: default
 title: <i class="far fa-newspaper"></i> &nbsp; Regional Gathering
 hovertitle: The Latest Updates
 lang: en
-trans: news
+trans: index
 permalink: /index.html
 ---
 All the latest news about the [St. Lawrence Regional Quaker Gathering](/rg.html):
