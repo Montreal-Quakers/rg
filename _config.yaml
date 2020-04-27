@@ -21,12 +21,9 @@ media_pages:
     # If you want alerts on only certain pages, (the ones listed under "alert_pages", set "alerts: some" 
     # Anything else, like '"alerton = "off"' and alerts will be off.
 
-alerts: off
+alerts: some
 alert_pages:
   - page_trans: index
-  - page_trans: directions
-  - page_trans: quebec
-  - page_trans: midweek
 
     #This section allows you to easily control which pages will have which bird and text animation
 bird_left: 
