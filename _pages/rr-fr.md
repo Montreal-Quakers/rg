@@ -2,7 +2,7 @@
 layout: default
 lang: fr
 trans: rg
-permalink: /rg-fr.html
+permalink: /rr-fr.html
 ---
  
 ### <i class="fas fa-stream"></i> À propos du rassemblement régional
