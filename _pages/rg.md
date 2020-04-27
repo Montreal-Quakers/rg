@@ -2,6 +2,7 @@
 layout: default
 lang: en
 trans: rg
+permalink: /rg.html
 ---
  
 ### <i class="fas fa-stream"></i> [About Regional Gathering](/about.html)
