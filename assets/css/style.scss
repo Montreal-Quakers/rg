@@ -93,6 +93,10 @@ h1.header,h2.header,h3.header,h4.header {
 	margin: 0;
 }
 
+.alert-color-text {
+   color: $alert-color;
+}
+
 /* The alert close button */
 .closebtn {
   margin: 0 0 0 0;
