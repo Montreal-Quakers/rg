@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: en
-trans: index
+trans: rg
 ---
  
 ### <i class="fas fa-stream"></i> [About Regional Gathering](/about.html)
