@@ -1,9 +1,9 @@
 en:
-- title: About Us &nbsp;<i class='far fa-address-card'></i>
-  subtitle: About Us
+- title: About &nbsp;<i class='far fa-address-card'></i>
+  subtitle: About
   children: 
-    - childtitle: For New Attenders
-      childlink: /about.html
+    - childtitle: About Regional Gathering
+      childlink: /rg.html
     - childtitle: Introduction to Quakers 
       childlink: /intro.html
     - childtitle: Links & History
