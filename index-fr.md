@@ -1,6 +1,6 @@
 ---
 layout: default
-trans: index
+trans: index-fr
 lang: fr
 ---
 ### [À propos des Quakers](/a_propos.html)
