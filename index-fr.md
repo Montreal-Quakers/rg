@@ -2,7 +2,7 @@
 layout: default
 title: <i class="far fa-newspaper"></i> &nbsp;Nouvelles
 lang: fr
-trans: news
+trans: index
 permalink: /index-fr.html
 ---
 Les mises à jour au sujet du [Rassemblement régional Saint-Laurent des Quakers](/rr-fr.html):
