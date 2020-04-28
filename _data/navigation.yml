@@ -28,7 +28,7 @@ fr:
 - title: À propos du rassemblement &nbsp;<i class='far fa-address-card'></i>
   children:
     - childtitle: À propos du rassemblement
-      childlink: /rg-fr.html
+      childlink: /rr-fr.html
     - childtitle: Introduction aux Quakers
       childlink: /intro-fr.html
     - childtitle: Liens & histoire
