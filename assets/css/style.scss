@@ -103,7 +103,7 @@ h1.header,h2.header,h3.header,h4.header {
   align-self: center;
   font-family: $font-sans;
   padding: 0px 20px 0 15px;
-  color: white;
+  color: $alert-text-color;
   background-color: $alert-color; /* Red */
   font-weight: bold;
   float: right;
