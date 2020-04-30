@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: en
-title: <i class="fas fa-pencil color-1-dark-text"></i> Next Regional Gathering directions
+title: <i class="fas fa-directions color-1-dark-text"></i> Next Regional Gathering directions
 trans: rg_dir
 permalink: /rg_directions.html
 ---

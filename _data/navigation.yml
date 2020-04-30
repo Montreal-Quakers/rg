@@ -22,6 +22,8 @@ en:
 - title: Next Regional Gathering
   subtitle: Information for the next Regional Gathering
   children:
+    - childtitle: Program
+      childlink: /rg_program.html
     - childtitle: Registration
       childlink: /rg_registration.html
     - childtitle: Directions
