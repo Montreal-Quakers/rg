@@ -6,8 +6,6 @@ en:
       childlink: /rg.html
     - childtitle: Introduction to Quakers 
       childlink: /intro.html
-    - childtitle: Links & History
-      childlink: /links_history.html
 - title: Our Meetings &nbsp;<i class='fas fa-map-marker-alt'></i>
   subtitle: Where We Meet
   children:
@@ -21,6 +19,13 @@ en:
       childlink: https://quaker.ca/meeting/wooler-monthly-meeting/
     - childtitle: Thousand Islands
       childlink: http://kingston.quaker.ca/
+- title: Next Regional Gathering
+  subtitle: Information for the next Regional Gathering
+  children:
+    - childtitle: Registration
+      childlink: /rg_registration.html
+    - childtitle: Directions
+      childlink: /rg_directions.html
 - title: Contact Us &nbsp;<i class='far fa-envelope-open'></i>
   link: /contact.html
 
