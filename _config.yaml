@@ -11,8 +11,6 @@ phone:
 # Certain types of media can be assigned to specific pages using this list. Everything in "media" is in the _include folder.
 
 media_pages:
-  - page_trans: index
-    media: yt_embed.html
   - page_trans: sandbox
     media: slideshow.html
 
@@ -26,13 +24,13 @@ alert_pages:
   - page_trans: index
 
     #This section allows you to easily control which pages will have which bird and text animation
-bird_left: 
+logo_left: 
   - animation: roll_bird1
-    trans: links_history
+    trans: rg
   - animation: swing-in1
     trans: index
 
-bird_right:
+logo_right:
   - animation: roll_bird2
     trans: links_history
   - animation: swing-in1

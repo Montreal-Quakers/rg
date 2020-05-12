@@ -49,8 +49,8 @@
     {% unless page.trans == "index" %}
     {% if page.title %} <h2 class="header">{{ page.title }}</h2>{% endif %}
     {% if page.description %}<h3 class="header">{{ page.description }}</h3>{% endif %}
-    {% endunless %}
 	<br>
+    {% endunless %}
 <article class="container-content">
 	<!-- Tricky to get Google's iframes, especially the Calendar, to look good in mobile without serving a special page -->
 		{% unless page.trans == "calendar" %}

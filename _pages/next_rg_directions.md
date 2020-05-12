@@ -5,4 +5,4 @@ title: <i class="fas fa-directions color-1-dark-text"></i> Next Regional Gatheri
 trans: rg_dir
 permalink: /rg_directions.html
 ---
-Directions for the 2020 Regional Gathering will be posted here.
+Directions for the 2021 Regional Gathering will be posted here.

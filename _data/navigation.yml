@@ -1,11 +1,7 @@
 en:
-- title: About &nbsp;<i class='far fa-address-card'></i>
+- title: About Regional Gathering &nbsp;<i class='far fa-address-card'></i>
   subtitle: About Regional Gathering
-  children: 
-    - childtitle: About Regional Gathering
-      childlink: /rg.html
-    - childtitle: Introduction to Quakers 
-      childlink: /intro.html
+  link: /rg.html
 - title: Our Meetings &nbsp;<i class='fas fa-map-marker-alt'></i>
   subtitle: Where We Meet
   children:
@@ -19,15 +15,15 @@ en:
       childlink: https://quaker.ca/meeting/wooler-monthly-meeting/
     - childtitle: Thousand Islands
       childlink: http://kingston.quaker.ca/
-- title: Next Regional Gathering
+- title: Next Gathering
   subtitle: Information for the next Regional Gathering
   children:
     - childtitle: Program
-      childlink: /rg_program.html
+      childlink: /rg2020_program.html
     - childtitle: Registration
-      childlink: /rg_registration.html
+      childlink: /rg2020_registration.html
     - childtitle: Directions
-      childlink: /rg_directions.html
+      childlink: /rg2020_directions.html
 - title: Contact Us &nbsp;<i class='far fa-envelope-open'></i>
   link: /contact.html
 
@@ -36,10 +32,6 @@ fr:
   children:
     - childtitle: À propos du rassemblement
       childlink: /rr-fr.html
-    - childtitle: Introduction aux Quakers
-      childlink: /intro-fr.html
-    - childtitle: Liens & histoire
-      childlink: /liens_histoire.html
 - title: Nos assembées &nbsp;<i class='fas fa-map-marker-alt'></i>
   subtitle: Trouvez nos assemblées
   children:

@@ -5,4 +5,4 @@ title: <i class="far fa-newspaper color-1-dark-text"></i> Next Regional Gatherin
 trans: rg_prog
 permalink: /rg_program.html
 ---
-The program for the 2020 Regional Gathering will be posted here.
+The program for the 2021 Regional Gathering will be posted here.

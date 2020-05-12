@@ -5,7 +5,7 @@ lang: fr
 trans: index
 permalink: /index-fr.html
 ---
-Les mises à jour au sujet du [Rassemblement régional Saint-Laurent des Quakers](/rr-fr.html):
+Les mises à jour au sujet du [Rassemblement régional Saint-Laurent des Quakers](/rr-fr.html). Cet événement a lieu principalement en anglais:
 
 <ul>
 {% assign posty = site.posts | where:"lang","fr" %}

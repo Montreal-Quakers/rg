@@ -5,10 +5,16 @@ lang: en
 trans: contact
 permalink: /contact.html
 ---
-You’re welcome to use the <i class="fas fa-pencil-alt"></i> contact form below. Here is our [Privacy Policy](privacy.html). 
+Here are the contacts for each meeting, responsible for distributing information, rideshares, and the like:
+
+Montreal: David Summerhays, regional gathering clerk  
+Peterborough: Steve Ginley and Anne Trudell  
+Thousand Islands: [Clerk](https://quaker.ca/meeting/thousand-islands-monthly-meeting/)  
+Ottawa: Sybil Grace  
+Wooler: [Clerk](https://quaker.ca/meeting/wooler-monthly-meeting/)  
+
+Write us at [stlawrence-rg-clerk@quaker.ca](mailto:stlawrence-rg-clerk@quaker.ca) or you’re welcome to use the <i class="fas fa-pencil-alt"></i> contact form below. Here is our [Privacy Policy](privacy.html). 
 
 Comments or questions are welcome.
 
 {% include contact.html %}
-
-![Group in a circle](/assets/images/circle_group_cropped.jpeg){:class="img_center100"}

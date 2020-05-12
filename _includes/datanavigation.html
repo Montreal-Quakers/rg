@@ -3,19 +3,13 @@
      <div id="wideheader">
 	     <!-- I put a few animations in for specific pages, just to make the site a bit more playful -->
 	     <div style="overflow: hidden;">
-		     <a href={% if page.lang =="fr" %}"/index-fr.html"{% else %}"/index.html"{% endif %}>
-			     <!-- top left bird -->
-			     <img alt="logo" class="{% for each in site.bird_left %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon.png" hspace="0px" height="140px">
+		     <a style="padding: 0" href={% if page.lang =="fr" %}"/index-fr.html"{% else %}"/index.html"{% endif %}>
+			     <!-- top left logo -->
+			     <img alt="logo" class="w3-circle {% for each in site.logo_left %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/house_rect2.png" hspace="0px" height="140px">
 		     </a>
 		     
 			     <!-- top header -->
 		     <a class="noback {% for each in site.header_animation %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %} " href={% if page.lang =="fr" %}"/index-fr.html"{% else %}"/index.html"{% endif %}>{% if page.lang == "fr" %}{{ site.title-fr }}{% else %}{{ site.title }}{% endif %}</a>
-
-			     <!-- top right bird -->
-		     <a class="noback" href={% if page.lang =="fr" %}"/index-fr.html"{% else %}"/index.html"{% endif %}>
-			     <img alt="logo" class="noback {% for each in site.bird_right %}{% if page.trans == each.trans %} {{ each.animation }} {% endif %}{% endfor %}" src="/assets/images/quaker_icon.png" hspace="0px" height="140px">
-		     </a>
-
         </div>
      </div>
 <div style="position:relative;">

@@ -11,5 +11,3 @@ Pour nous joindre, vous pouvez <i class="fas fa-pencil-alt"></i> remplir le form
 N'hésitez pas à nous poser des questions.
 
 {% include contact.html %}
-
-![Le groupe en cercle](/assets/images/circle_group_cropped.jpeg){:class="img_center100"}
