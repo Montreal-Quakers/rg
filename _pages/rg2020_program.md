@@ -30,6 +30,3 @@ Noon-1:00 PM: Lunch (offline)
 1:00-1:15PM: Afternoon Welcome (One open zoom session)  
 1:15 PM- 3:00 PM: Art sharing (Separate Zoom sessions with ~15 Friends each, one empty Zoom session)  
 3:00 PM-4:00 PM: Afternoon wrap up and Meeting for Worship for Business (One open Zoom session)  
-
-Surely we have forgotten something but the ball is rolling :)
-

@@ -29,9 +29,7 @@ en:
 
 fr:
 - title: À propos du rassemblement &nbsp;<i class='far fa-address-card'></i>
-  children:
-    - childtitle: À propos du rassemblement
-      childlink: /rr-fr.html
+  link: /rr-fr.html
 - title: Nos assembées &nbsp;<i class='fas fa-map-marker-alt'></i>
   subtitle: Trouvez nos assemblées
   children:
