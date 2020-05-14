@@ -13,6 +13,12 @@ phone:
 media_pages:
   - page_trans: sandbox
     media: slideshow.html
+  
+    # You may want full screen media for videos and calendars. In that case, put it here:
+
+full_page_media:
+  #  - page_trans: rg2020_reg
+  #    media: registration.html
 
     # Turn alerts on and off using this variable below. 
     # If you want alerts on all pages on the website, set 'alerts: all'.
