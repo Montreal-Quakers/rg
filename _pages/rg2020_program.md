@@ -5,6 +5,8 @@ title: <i class="far fa-newspaper color-1-dark-text"></i> Next Regional Gatherin
 trans: rg2020_prog
 permalink: /rg2020_program.html
 ---
+Register [here](/rg2020_registration.html)
+
 Peterborough planning committee met last week and came up with a preliminary plan for a virtual Regional Gathering this year. We propose holding the gathering over Zoom on June 6 with a morning and afternoon session (including a meeting for worship for business).
 
 * In the morning session (9 am-noon), we would invite Friends to share personal stories from quarantine. 
