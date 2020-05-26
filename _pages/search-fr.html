@@ -1,6 +1,5 @@
 ---
 title: Recherche
-layout: default
 permalink: /search-fr/
 tipue_search_active: true
 exclude_from_search: true
@@ -9,52 +8,15 @@ trans: search
 ---
 
 <form action="{{ page.url | relative_url }}">
-  <div class="tipue_search_left"><img src="{{ "/assets/tipuesearch/search.png" | relative_url }}" class="tipue_search_icon"></div>
-  <div class="tipue_search_right"><input type="text" name="q" id="tipue_search_input" pattern=".{2,}" title="Au moins 2 caractères" required></div>
+  <div class="tipue_search_left"><i class="fas fa-search color-1-dark-text fa-lg"></i></div>
+  <div class="tipue_search_right"><input type="text" name="q" placeholder="Recherchez..." id="tipue_search_input" pattern=".{2,}" title="Au moins 2 caractères" required autofocus></div>
   <div style="clear: both;"></div>
-</form>
-<h5>Mot exact &nbsp;<label class="switch">
+</form><br>
+<p>Recherche du mot entier &nbsp;<label class="switch">
   <input id=wholecheck type="checkbox">
   <span class="slider round"></span>
-        </label></h5>
-	<br>
-
+        </label></p>
+<br>
 <div id="tipue_search_content"></div>
 
-<script>
-var checkbox = document.getElementById("wholecheck");
-  let istrue = localStorage.getItem('istrue');
-  if (typeof istrue === 'undefined') {istrue = 'false'};
-  if (istrue === "true") {
-          var istruebool = true;
-  } else {
-          var istruebool = false;
-  }
-  if (istruebool === true) {
-         checkbox.checked = true;
-  };
-
-document.addEventListener('DOMContentLoaded', function () {
-
-  checkbox.addEventListener('change', function () {
-    if (checkbox.checked) {
-      // do this
-            localStorage.setItem('istrue','true');
-            istrue = localStorage.getItem('istrue');
-            istruebool = true;
-    } else {
-      // do that
-         localStorage.setItem('istrue','false');
-         istrue = localStorage.getItem('istrue');
-         istruebool = false;
-    }
-  });
-});
-
-$(document).ready(function() {
-	$('#tipue_search_input').tipuesearch({
-         'wholeWords': istruebool,
-         'minimumLength': 2
-   });
-});
-</script>
+<script src="/assets/js/search.js"></script>

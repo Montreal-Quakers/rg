@@ -1,6 +1,14 @@
 ---
 ---
+// Already imported
 @import "colors.scss";
+@import "font.scss";
+
+*,*:before,*:after{box-sizing:inherit}
+
+html,body {
+    line-height: 1.5;
+}
 
 body {
     display: flex;
@@ -14,7 +22,7 @@ body {
     background-color: $body-color;
     height: 100%;
     min-height: 100vh;
-	max-width: 100%;
+    max-width: 100%;
 }
 
 img {
@@ -29,6 +37,18 @@ img {
   background-color: white; 
 } */
 
+h1,h2,h3,h4,h5,h6 {
+	font-weight: 400;
+	margin: 10px 0;
+	font-family: $font-serif;
+	letter-spacing: $serif-spacing;
+}
+h2 {font-size: 175%}
+h3 {font-size: 140%}
+h4 {font-size: 120%}
+h5 {font-size: 105%}
+h6 {font-size: 95%;}
+
 h1.header,h2.header,h3.header,h4.header {
 	font-family: $font-serif;
 	text-align: center;
@@ -38,14 +58,36 @@ h1.header,h2.header,h3.header,h4.header {
 	margin: 0 auto 0;
 }
 
+hr {
+  border: 0;
+  border-top: 1px solid #e2e2e2;
+  margin: 20px 0;
+}
+
+a {background-color:transparent;color:inherit; outline-width: 0}
+a:active,a:hover,a:visited {outline-width:0;text-decoration: none;}
+
+button {
+	text-transform: none;
+	-webkit-appearance: button;
+}
+button,input {
+	overflow: visible;
+	font:inherit;
+	margin: 0;
+}
+
+
 .content.mono {
 	font-family: $font-mono;
 }
 	
 .content.serif {
 	font-family: $font-serif;
+	letter-spacing: $serif-spacing;
 }
 .footer {
+    flex: 1 0 auto;
     color: $nav-color-text;
     font-family: $font-sans;
     font-size: 0.8em;
@@ -57,7 +99,12 @@ h1.header,h2.header,h3.header,h4.header {
 .footer h3 {
 	padding-top: .5em;
         font-family: $font-serif;
+	letter-spacing: $serif-spacing;
 	font-size: 2em;
+}
+
+.footer h6 {
+	font-family: $font-sans;
 }
 
 .footer.smaller {
@@ -76,6 +123,7 @@ h1.header,h2.header,h3.header,h4.header {
   text-align: center;
   max-width: $text-width;
   font-family: $font-sans;
+  font-weight: bold;
   padding: 20px;
   color: $alert-text-color;
   margin: 0 0 ;
@@ -84,17 +132,13 @@ h1.header,h2.header,h3.header,h4.header {
 }
 
 .alert a {
-   //color: $alert-link-color;
-   font-weight: bold;
+   color: $alert-link-color;
+   font-weight: 800;
    font-family: $font-sans;
    }
 
 .alert p {
 	margin: 0;
-}
-
-.alert-color-text {
-   color: $alert-color;
 }
 
 /* The alert close button */
@@ -103,7 +147,7 @@ h1.header,h2.header,h3.header,h4.header {
   align-self: center;
   font-family: $font-sans;
   padding: 0px 20px 0 15px;
-  color: $alert-text-color;
+  color: white;
   background-color: $alert-color; /* Red */
   font-weight: bold;
   float: right;
@@ -115,16 +159,25 @@ h1.header,h2.header,h3.header,h4.header {
   z-index: 100;
 }
 
+.alert-color-text {
+   color: $alert-color;
+}
+
 /* When moving the mouse over the close button */
 .closebtn:hover {
-  color: $alert-hover-color;
+  color: black;
 }
 
 .theme-gradient {
   color: #000;
   background: linear-gradient(top,$color-1 25%,$color-1-dark 75%)}
 
+.center {
+	text-align: center;
+}
+
 .img_center25 {
+    text-align: center;
     margin: 0 auto;
     display: block;
     padding: 15px;
@@ -132,6 +185,7 @@ h1.header,h2.header,h3.header,h4.header {
     }
 
 .img_center50 {
+    text-align: center;
     margin: 0 auto;
     display: block;
     padding: 15px;
@@ -139,6 +193,7 @@ h1.header,h2.header,h3.header,h4.header {
     }
 
 .img_center75 {
+    text-align: center;
     margin: 0 auto;
     display: block;
     padding: 15px;
@@ -146,6 +201,7 @@ h1.header,h2.header,h3.header,h4.header {
     }
 
 .img_center100 {
+    text-align: center;
     margin: 0 auto;
     display: block;
     padding: 15px;
@@ -153,12 +209,14 @@ h1.header,h2.header,h3.header,h4.header {
     }
 
 .img_center {
+    text-align: center;
     margin: 0 auto;
     display: block;
     padding: 15px;
     }
 
 .img_center_no_pad {
+    text-align: center;
     margin: 0 auto;
     display: block;
     }
@@ -220,8 +278,9 @@ main {
 .switch {
   position: relative;
   display: inline-block;
-  width: 60px;
-  height: 34px;
+  width: 25px;
+  height: 16px;
+  top: 5px;
 }
 
 .switch input {
@@ -240,14 +299,14 @@ main {
   background-color: #ccc;
   -webkit-transition: .4s;
   transition: .4s;
-  padding: 15px;
+  padding: 2px;
 }
 
 .slider:before {
   position: absolute;
   content: "";
-  height: 26px;
-  width: 26px;
+  height: 8px;
+  width: 8px;
   left: 4px;
   bottom: 4px;
   background-color: white;
@@ -256,7 +315,7 @@ main {
 }
 
 input:checked + .slider {
-  background-color: $color-1;
+  background-color: $color-1-light;
 }
 
 input:focus + .slider {
@@ -264,9 +323,9 @@ input:focus + .slider {
 }
 
 input:checked + .slider:before {
-  -webkit-transform: translateX(26px);
-  -ms-transform: translateX(26px);
-  transform: translateX(26px);
+  -webkit-transform: translateX(9px);
+  -ms-transform: translateX(9px);
+  transform: translateX(9px);
 }
 
 /* Rounded sliders */
@@ -276,6 +335,18 @@ input:checked + .slider:before {
 
 .slider.round:before {
   border-radius: 50%;
+}
+
+.down_a_bit {
+        vertical-align: bottom;
+//        position: relative;
+//        bottom: 4px;
+}
+
+.down_a_bit_more {
+        vertical-align: bottom;
+        position: relative;
+        bottom: -4px;
 }
 
 .container-content {
@@ -298,24 +369,18 @@ input:checked + .slider:before {
    margin-bottom: 0;
 }
 
+.w3-input{padding:8px;display:block;border:none;border-bottom:1px solid #ccc;width:100%}
+.w3-border{border:1px solid #ccc}
+.w3-animate-input{transition:width 0.4s ease-in-out}
+.w3-animate-input:focus{width:100%}
+.w3-button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;text-align:center;cursor:pointer;white-space:nowrap;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;transition:background-color .3s}
+.w3-button:hover{background-color:$color-1}
+
 .media {
    flex: 1 0 400px; /* can grow, can't shrink, and set to min 400px */
    padding: 0 3px;
   }
 /* large calendar is embed-container2. I don't apply any styling to the mobile sized calendar */
-
- .media_sticky {
-         position: -webkit-sticky;
-         position: -moz-sticky;
-         position: -ms-sticky;
-         position: -o-sticky;
-	 position: sticky;
-         align-self: flex-start;
-         right: 0;
-         top: 100px;
-         max-width: 100%;
- }
-
 
 .embed-container2 {
   position: relative; 
@@ -374,6 +439,17 @@ input:checked + .slider:before {
   .embed-container1 {
 	  display: none;
   }
+ .media {
+         position: -webkit-sticky;
+         position: -moz-sticky;
+         position: -ms-sticky;
+         position: -o-sticky;
+         position: sticky;
+         align-self: flex-start;
+         right: 0;
+         top: 100px;
+         max-width: 100%;
+ }
 }
 
 
@@ -390,5 +466,12 @@ input:checked + .slider:before {
   background-color: $color-1-dark;
   color: white;
   cursor: pointer;
-  padding: 5px 10px;
+  padding: 11px 15px;
+  box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+  border-radius:50%;
+  transition: 0.3s;
+}
+
+#myBtn:hover {
+	background-color: $color-1-light;
 }

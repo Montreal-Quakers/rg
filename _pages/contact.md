@@ -1,9 +1,7 @@
 ---
-layout: default
 title: <i class="fas fa-pencil-alt shake-tl"></i>&nbsp; Contact Us
 lang: en
 trans: contact
-permalink: /contact.html
 ---
 Here are the contacts for each meeting, responsible for distributing information, rideshares, and the like:
 

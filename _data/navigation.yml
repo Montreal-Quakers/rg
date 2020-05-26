@@ -1,48 +1,53 @@
 en:
-- title: About Regional Gathering &nbsp;<i class='far fa-address-card'></i>
+- title: About Regional Gathering
   subtitle: About Regional Gathering
+  icon: <i class='far fa-address-card'></i>
   link: /rg.html
-- title: Our Meetings &nbsp;<i class='fas fa-map-marker-alt'></i>
+- title: Our Meetings
   subtitle: Where We Meet
-  children:
-    - childtitle: Ottawa
-      childlink: http://ottawa.quaker.ca/
-    - childtitle: Montreal
-      childlink: https://montreal.quaker.ca
-    - childtitle: Peterborough
-      childlink: http://www.peterborough.quaker.ca/
-    - childtitle: Wooler
-      childlink: https://quaker.ca/meeting/wooler-monthly-meeting/
-    - childtitle: Thousand Islands
-      childlink: http://kingston.quaker.ca/
+  icon: <i class='fas fa-map-marker-alt'></i>
+  submenu:
+    - subtitle: Ottawa
+      sublink: http://ottawa.quaker.ca/
+    - subtitle: Montreal
+      sublink: https://montreal.quaker.ca
+    - subtitle: Peterborough
+      sublink: http://www.peterborough.quaker.ca/
+    - subtitle: Wooler
+      sublink: https://quaker.ca/meeting/wooler-monthly-meeting/
+    - subtitle: Thousand Islands
+      sublink: http://kingston.quaker.ca/
 - title: Next Gathering
   subtitle: Information for the next Regional Gathering
-  children:
-    - childtitle: Program
-      childlink: /rg2020_program.html
-    - childtitle: Registration
-      childlink: /rg2020_registration.html
-    - childtitle: Directions
-      childlink: /rg2020_directions.html
-- title: Contact Us &nbsp;<i class='far fa-envelope-open'></i>
+  submenu:
+    - subtitle: Program
+      sublink: /rg2020_program.html
+    - subtitle: Registration
+      sublink: /rg2020_registration.html
+    - subtitle: Directions
+      sublink: /rg2020_directions.html
+- title: Contact Us
   link: /contact.html
+  icon: <i class='far fa-envelope-open'></i>
 
 fr:
-- title: À propos du rassemblement &nbsp;<i class='far fa-address-card'></i>
+- title: À propos du rassemblement
+  icon: <i class='far fa-address-card'></i>
   link: /rr-fr.html
-- title: Nos assembées &nbsp;<i class='fas fa-map-marker-alt'></i>
+- title: Nos assembées
   subtitle: Trouvez nos assemblées
-  children:
-    - childtitle: Ottawa
-      childlink: http://ottawa.quaker.ca/
+  icon: <i class='fas fa-map-marker-alt'></i>
+  submenu:
+    - subtitle: Ottawa
+      sublink: http://ottawa.quaker.ca/
     - childtitle: Montreal
-      childlink: https://montreal.quaker.ca/fr/accueil/
-    - childtitle: Peterborough
-      childlink: http://www.peterborough.quaker.ca/
-    - childtitle: Wooler
-      childlink: https://quaker.ca/meeting/wooler-monthly-meeting/
-    - childtitle: Thousand Islands
-      childlink: http://kingston.quaker.ca/
-- title: Contact &nbsp;<i class='far fa-envelope-open'></i>
+      sublink: https://montreal.quaker.ca/fr/accueil/
+    - subtitle: Peterborough
+      sublink: http://www.peterborough.quaker.ca/
+    - subtitle: Wooler
+      sublink: https://quaker.ca/meeting/wooler-monthly-meeting/
+    - subtitle: Thousand Islands
+      sublink: http://kingston.quaker.ca/
+- title: Contact
   link: /contact-fr.html
-
+  icon: <i class='far fa-envelope-open'></i>
