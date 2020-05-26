@@ -1,3 +1,4 @@
+@import "font.scss";
 $color-1:  #b3e5fc; //#205592;
 $color-1-light: #e6ffff;    //*#f44336;
 $color-1-dark: #82b3c9;    //*#f44336;
@@ -17,9 +18,8 @@ $mob-pixels: 1109px; //763px;
 /// Don't forget to update the pixel width in assets/js/navigation.js. If these values are different, some coloration will be weird.
 $nav-font-size: 1em;
 $font-mono: "Courier New", Courier, monospace; 
-$font-sans: Helvetica, Arial, sans-serif;
-$font-serif: Georgia, serif;
+$font-sans: "Source Sans Pro", Helvetica, Arial, sans-serif; // "Source Sans Pro",
+$font-serif: "Playfair Display", Georgia, serif; // "IM Fell English", "Oswald",
 $serif-spacing: 1.5px;
-@import "font.scss";
 /// Don't forget to update the pixel width in assets/js/navigation.js. If these values are different, some coloration will be weird.
 $text-width: 50em; //Sets the widge of the text on the page.
