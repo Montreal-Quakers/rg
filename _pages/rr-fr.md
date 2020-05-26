@@ -6,3 +6,5 @@ trans: rg
 permalink: /rr-fr.html
 ---
 Une fois par année, les assemblées Quaker au long du fleuve Saint-Laurent se rassemblent. Cette assemblée, en juin d'habitude, comprend les assemblées d'Ottawa, Montréal, Peterborough, Wooler, Thousand Islands, et leurs groupes respectifs. L'organisation se fait à tour de rôle et plus d'information est disponible par la [page de contact](/contact-fr.html) ou par [l'Assemblée quaker de Montréal](https://montreal.quaker.ca/fr/accueil/). 
+
+Cet événement a lieu majoritairement en anglais, mais avec plusieurs francophones. La traduction est souvent disponible alors n'hésitez pas de [nous contacter](/contact-fr.html)  pour tout détail.
