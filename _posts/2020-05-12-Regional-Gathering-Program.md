@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Regional Gathering program
 lang: en
 author: Regional Gathering clerk
 tags: [announcements,events]
 ---
+A registration form is available [here](https://forms.gle/v7ntj4iipz3BNfDf9){: target="_blank"}.
+
 Peterborough planning committee met last week and came up with a preliminary plan for a virtual Regional Gathering this year. We propose holding the gathering over Zoom on June 6 with a morning and afternoon session (including a meeting for worship for business).
 
 * In the morning session (9 am-noon), we would invite Friends to share personal stories from quarantine. 

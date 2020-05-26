@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Prochain rassemblement régional
 lang: fr
 author: Secrétaire du rassemblement régional

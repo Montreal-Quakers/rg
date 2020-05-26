@@ -1,5 +1,4 @@
 ---
-layout: default
 lang: en
 permalink: all_images.html
 exclude_from_search: true

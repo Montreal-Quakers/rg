@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Next Regional Gathering online
 lang: en
 author: Regional Gathering clerk

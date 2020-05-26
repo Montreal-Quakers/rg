@@ -1,15 +1,7 @@
 --- 
-<<<<<<< HEAD
-layout: default 
 title: Politique de confidentialité
 lang: fr
 trans: privacy
-permalink: /confidentialité.html
-=======
-title: Politique de confidentialité
-lang: fr
-trans: privacy
->>>>>>> template/master
 ---
 ### Qui nous sommes
 Nous sommes l'Assemblée Quaker de Montréal. L’adresse de notre site Web est la suivante: https://montreal.quaker.ca.

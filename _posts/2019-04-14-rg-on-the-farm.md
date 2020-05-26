@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Regional Gathering at Sylvia Powers's farm
 lang: en
 author: Regional Gathering clerk

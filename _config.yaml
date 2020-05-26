@@ -8,21 +8,19 @@ address:
 adresse:
 phone:
 
+webrick:
+  headers:
+    Cache-Control: max-age=31536000
+
 # Certain types of media can be assigned to specific pages using this list. Everything in "media" is in the _include folder.
 
 media_pages:
   - page_trans: sandbox
     media: slideshow.html
   
-    # You may want full screen media for videos and calendars. In that case, put it here:
-
-full_page_media:
-  #  - page_trans: rg2020_reg
-  #    media: registration.html
-
-    # Turn alerts on and off using this variable below. 
+    # Turn alerts on and off using this variable below.
     # If you want alerts on all pages on the website, set 'alerts: all'.
-    # If you want alerts on only certain pages, (the ones listed under "alert_pages", set "alerts: some" 
+    # If you want alerts on only certain pages, (the ones listed under "alert_pages", set "alerts: some"
     # Anything else, like '"alerton = "off"' and alerts will be off.
 
 alerts: off
@@ -54,15 +52,13 @@ header_animation:
     trans: index
 
     # the text at the top of each page on mobile/narrow screens
-mobile_header_animation:
-  - animation: flicker-glow
-    trans: contribution
 
 markdown: kramdown
 include: ['_pages',".htaccess"]
 exclude: ["backup","notes","Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"] 
 sass:
     sass_dir: ./_sass
+    style: compressed
 tipue_search:
   include:
     pages: true
@@ -77,3 +73,14 @@ defaults:
       path: "assets/PDF"
     values:
       PDF: true
+  - scope:
+      path: "_pages" # an empty string here means all files in the project
+    type: "pages"
+    values:
+      layout: "default"
+      permalink: "/:basename"
+  - scope:
+      path: "_posts" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
