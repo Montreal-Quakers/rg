@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: en
-title: <i class="fas fa-pencil-alt color-1-dark-text"></i> Next Regional Gathering registration
+title: <i class="fas fa-pencil-alt color-1-dark-text"></i> Registration for Regional Gathering 2020
 trans: rg2020_reg
 permalink: /rg2020_registration.html
 ---

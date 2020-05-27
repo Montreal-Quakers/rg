@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: en
-title: <i class="far fa-newspaper color-1-dark-text"></i> Next Regional Gathering Program
+title: <i class="far fa-newspaper color-1-dark-text"></i> Program for Regional Gathering 2020
 trans: rg2020_prog
 permalink: /rg2020_program.html
 ---
