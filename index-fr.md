@@ -5,6 +5,8 @@ lang: fr
 trans: index
 permalink: /index-fr.html
 ---
+### Le Rassemblement régional Saint-Laurent aura lieu en ligne!
+
 Les mises à jour au sujet du [Rassemblement régional Saint-Laurent des Quakers](/rr-fr.html). Cet événement a lieu principalement en anglais:
 
 <ul>
