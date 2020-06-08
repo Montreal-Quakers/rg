@@ -47,6 +47,44 @@ of Mystery, infuse our aging adult days with timelessness,
 transform my memories of older ones overseeing children,  
 reaching into Truth, and let history slip into Presence.  
 
+A poem from Rosemarie:
+
+#### Pandemic
+
+What if you thought of it  
+as the Jews consider the Sabbath—  
+the most sacred of times?  
+Cease from travel.  
+Cease from buying and selling.  
+Give up, just for now,  
+on trying to make the world  
+different than it is.  
+Sing. Pray. Touch only those  
+to whom you commit your life.  
+Center down.  
+
+And when your body has become still,  
+reach out with your heart.   
+Know that we are connected   
+in ways that are terrifying and beautiful.   
+(You could hardly deny it now.)   
+Know that our lives   
+are in one another’s hands.   
+(Surely, that has come clear.)   
+Do not reach out your hands.   
+Reach out your heart.   
+Reach out your words.   
+Reach out all the tendrils   
+of compassion that move, invisibly,   
+where we cannot touch.   
+
+Promise this world your love--   
+for better or for worse,   
+in sickness and in health,   
+so long as we all shall live.   
+
+--Lynn Ungar 3/11/20
+
 <div class="gallery"><ul class="gallery__list">
 {% for image in site.static_files %}
     {% if image.path contains 'assets/images/RG2020' %}
