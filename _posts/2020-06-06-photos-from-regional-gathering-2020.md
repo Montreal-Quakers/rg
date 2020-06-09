@@ -3,7 +3,9 @@ lang: en
 author: Regional Gathering clerk
 tag: [photos,gathering]
 ---
-A poem from Caroline, Goshen Friends Meeting June 17, 2018: 
+Three poems, from [Caroline](#caroline), [Rosemarie](#rosemarie), and [Bert](#bert) and then the [photos](#photos).
+
+A poem from Caroline<span class="stanchor"><a name="caroline"> </a></span>, Goshen Friends Meeting June 17, 2018: 
 
 Shadows of my childhood family align along this  
 plain meetinghouse bench in Chester County,  
@@ -47,7 +49,7 @@ of Mystery, infuse our aging adult days with timelessness,
 transform my memories of older ones overseeing children,  
 reaching into Truth, and let history slip into Presence.  
 
-A poem from Rosemarie:
+A poem from Rosemarie<span class="stanchor"><a name="rosemarie"></a></span>:
 
 #### Pandemic
 
@@ -84,6 +86,27 @@ in sickness and in health,
 so long as we all shall live.   
 
 --Lynn Ungar 3/11/20
+
+Bert's poem<span class="stanchor"><a name="bert"></a></span>, by John O’Donohue from his book _To Bless the Space Between Us_
+
+This is the time to be slow,
+Lie low to the wall
+Until the bitter weather passes.
+
+Try, as best you can, not to let
+The wire brush of doubt
+Scrape from your heart
+All sense of yourself
+And your hesitant light.
+
+If you remain generous,
+Time will come good;
+And you will find your feet
+Again on fresh pastures of promise,
+Where the air will be kind
+And blushed with beginning.
+
+### Photos<span class="stanchor"><a name="photos"> </a></span>
 
 <div class="gallery"><ul class="gallery__list">
 {% for image in site.static_files %}
