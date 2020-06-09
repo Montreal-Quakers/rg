@@ -89,22 +89,22 @@ so long as we all shall live.
 
 Bert's poem<span class="stanchor"><a name="bert"></a></span>, by John O’Donohue from his book _To Bless the Space Between Us_
 
-This is the time to be slow,
-Lie low to the wall
-Until the bitter weather passes.
+This is the time to be slow,  
+Lie low to the wall  
+Until the bitter weather passes.  
 
-Try, as best you can, not to let
-The wire brush of doubt
-Scrape from your heart
-All sense of yourself
-And your hesitant light.
+Try, as best you can, not to let  
+The wire brush of doubt  
+Scrape from your heart  
+All sense of yourself  
+And your hesitant light.  
 
-If you remain generous,
-Time will come good;
-And you will find your feet
-Again on fresh pastures of promise,
-Where the air will be kind
-And blushed with beginning.
+If you remain generous,  
+Time will come good;  
+And you will find your feet  
+Again on fresh pastures of promise,  
+Where the air will be kind  
+And blushed with beginning.  
 
 ### Photos<span class="stanchor"><a name="photos"> </a></span>
 
