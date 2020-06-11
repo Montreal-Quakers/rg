@@ -40,7 +40,7 @@ fr:
   submenu:
     - subtitle: Ottawa
       sublink: http://ottawa.quaker.ca/
-    - childtitle: Montreal
+    - subtitle: Montreal
       sublink: https://montreal.quaker.ca/fr/accueil/
     - subtitle: Peterborough
       sublink: http://www.peterborough.quaker.ca/
