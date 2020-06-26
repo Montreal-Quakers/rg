@@ -8,6 +8,7 @@
 
 html,body {
     line-height: 1.5;
+    box-sizing: border-box;
 }
 
 body {
@@ -179,7 +180,7 @@ button,input {
 .gallery * {box-sizing: border-box}
 .gallery > .gallery__list {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   // grid-template-rows: repeat(auto-fit, minmax(425px, 1fr));
   grid-gap: 1rem;
   grid-auto-flow: dense;
