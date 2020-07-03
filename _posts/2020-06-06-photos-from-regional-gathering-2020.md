@@ -107,13 +107,22 @@ Where the air will be kind
 And blushed with beginning.  
 
 ### Photos<span class="stanchor"><a name="photos"> </a></span>
-
 <div class="gallery"><ul class="gallery__list">
 {% for image in site.static_files %}
     {% if image.path contains 'assets/images/RG2020' %}
+{% unless image.extname == ".webp" %}{% assign ext = image.extname | remove: "." %}
 {% assign word = image.basename.size | minus: 1 %}{% assign caption = image.basename | capitalize | truncate: word, "" %}
- <li><figure><img src="{{ image.path }}" alt="{{ image.basename }}">
-<figcaption>{{ caption }}</figcaption></figure></li>
+ <li>
+   <figure>
+     <picture>
+       <source srcset="/assets/images/RG2020/{{ image.basename }}.webp" type="image/webp"> 
+       <source srcset="{{ image.path }}" type="image/{{ ext }}">
+       <img src="/assets/images/RG2020/{{ image.basename }}.webp" alt="{{ image.basename }}">
+     </picture>
+     <figcaption>{{ caption }}</figcaption>
+   </figure>
+</li>
+  {% endunless %}
   {% endif %}
 {% endfor %}
 </ul></div>
