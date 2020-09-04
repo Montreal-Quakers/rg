@@ -6,10 +6,9 @@ lang: en
 trans: index
 permalink: /index.html
 ---
-### Sign up to get all our updates
-Mailing list link [here](https://docs.google.com/forms/d/e/1FAIpQLSeOYBA7a1ygWENuGF63qnjr9NcE9jnHfzEWapSdYG1BMfZ8qA/viewform){: rel="noopener" target="_blank"}
+Sign up to get all our updates. Mailing list link [here](https://docs.google.com/forms/d/e/1FAIpQLSeOYBA7a1ygWENuGF63qnjr9NcE9jnHfzEWapSdYG1BMfZ8qA/viewform){: rel="noopener" target="_blank"}
 
-### The latest news
+## The latest news
 
 <ul>
 {% assign posty=site.posts | where:"lang","en" %}
