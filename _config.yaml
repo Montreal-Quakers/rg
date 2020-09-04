@@ -8,6 +8,10 @@ address:
 adresse:
 phone:
 
+# This sets the point at which the website will switch from "desktop view" to "mobile/tablet view"
+breakpoint: 1080px
+verynarrow: 345px
+
 webrick:
   headers:
     Cache-Control: max-age=31536000

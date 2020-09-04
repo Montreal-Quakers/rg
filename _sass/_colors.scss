@@ -1,8 +1,9 @@
 @import "font.scss";
+@import "variables";
 $color-1:  #b3e5fc; //#205592;
 $color-1-light: #e6ffff;    //*#f44336;
 $color-1-dark: #82b3c9;    //*#f44336;
-$color-active: #e6ffff; //#555
+$color-active: lighten(#82b3c9,8%); //#555
 $body-font-size: 17px;
 $body-color: white;
 $body-color-text: black;
@@ -11,9 +12,14 @@ $nav-color-text: black;
 $nav-hover-text: grey;
 $header-font-size: 140%;
 $alert-color: #ef9a9a; // old orange: #d8640b Soft red:  920300 Google red: #B00020;#FF8000;B44E09
-$alert-text-color: black;  // #FF8000;
-$alert-link-color: black;  // #FF8000;
-$alert-hover-color: white;   //#bababa
+$redalert-color: #bf5608;  // #FF8000;
+$redalert-text-color: black;  // #FF8000;
+$redalert-link-color: black;  // #FF8000;
+$redalert-hover-color: white;   //#bababa
+$bluealert-color: #163b64;
+$bluealert-text-color: black;  // #FF8000;
+$bluealert-link-color: black;  // #FF8000;
+$bluealert-hover-color: white;   //#bababa
 $mob-pixels: 1109px; //763px;
 /// Don't forget to update the pixel width in assets/js/navigation.js. If these values are different, some coloration will be weird.
 $nav-font-size: 1em;

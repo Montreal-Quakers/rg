@@ -3,10 +3,12 @@ layout: default
 title: <i class="far fa-newspaper"></i> &nbsp;Nouvelles
 lang: fr
 trans: index
-permalink: /index-fr.html
+
 ---
 Ce site web contient les mises à jour au sujet du [Rassemblement régional Saint-Laurent des Quakers](/rr-fr.html). Cet événement a lieu principalement en anglais:
 
+{% include posts.html %}
+{% comment %}
 <ul>
 {% assign posty = site.posts | where:"lang","fr" %}
   {% for post in posty %}
@@ -36,3 +38,4 @@ Ce site web contient les mises à jour au sujet du [Rassemblement régional Sain
     </li>
   {% endfor %}
 </ul>
+{% endcomment %}

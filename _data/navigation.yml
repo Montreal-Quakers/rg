@@ -21,11 +21,11 @@ en:
   subtitle: Information for the next Regional Gathering
   submenu:
     - subtitle: Program
-      sublink: /rg2020_program.html
+      sublink: /rg2020-fall_program.html
     - subtitle: Registration
-      sublink: /rg2020_registration.html
+      sublink: /rg2020-fall_registration.html
     - subtitle: Directions
-      sublink: /rg2020_directions.html
+      sublink: /rg2020-fall_directions.html
 - title: Contact Us
   link: /contact.html
   icon: <i class='far fa-envelope-open'></i>
