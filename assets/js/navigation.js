@@ -53,7 +53,7 @@ function respondBar() {
 }
 
 // Return to top button, shown lower than 400px:
-var mybutton = document.getElementById("myBtn");
+var mybutton = document.getElementById("topBtn");
 function buttonAppear() {
   if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
     mybutton.style.display = "block";

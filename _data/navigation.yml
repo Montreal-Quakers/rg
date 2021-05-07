@@ -8,15 +8,20 @@ en:
   icon: <i class='fas fa-map-marker-alt'></i>
   submenu:
     - subtitle: Ottawa
-      sublink: http://ottawa.quaker.ca/
+      sublink: https://ottawa.quaker.ca/
+      link_conditions: 'rel="noopener" target="_blank"'
     - subtitle: Montreal
       sublink: https://montreal.quaker.ca
+      link_conditions: 'rel="noopener" target="_blank"'
     - subtitle: Peterborough
-      sublink: http://www.peterborough.quaker.ca/
+      sublink: https://www.peterborough.quaker.ca/
+      link_conditions: 'rel="noopener" target="_blank"'
     - subtitle: Wooler
       sublink: https://quaker.ca/meeting/wooler-monthly-meeting/
+      link_conditions: 'rel="noopener" target="_blank"'
     - subtitle: Thousand Islands
-      sublink: http://kingston.quaker.ca/
+      sublink: https://kingston.quaker.ca/
+      link_conditions: 'rel="noopener" target="_blank"'
 - title: Next Gathering
   subtitle: Information for the next Regional Gathering
   submenu:

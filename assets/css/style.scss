@@ -415,7 +415,7 @@ input {
 .w3-circle {border-radius:50%}
 
 // scroll up button
-#myBtn {
+#topBtn {
   display: none;
   position: fixed;
   bottom: 20px;
@@ -425,9 +425,9 @@ input {
   border: none;
   outline: none;
   background-color: $color-1-dark;
-  color: white;
+  color: black;
   cursor: pointer;
-  padding: 11px 15px;
+  padding: 12px 15px 8px;
   box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
   border-radius:50%;
   transition: 0.3s;

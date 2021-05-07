@@ -35,7 +35,7 @@
     </button>
     <div class="dropdown-content" id="dropdown{{ counter }}">
 	    {% for subitem in item.submenu %}{% assign realurl = page.url | url_decode %}
-	    <a href="{{ subitem.sublink }}" {% if subitem.subhovertitle %}title="{{ subitem.subhovertitle }}"{% endif %}{% if subitem.sublink == realurl %}class="active"{% endif %}>{% if subitem.subicon %}{{ subitem.subicon }}{% endif %} {{ subitem.subtitle }}</a>
+	    <a href="{{ subitem.sublink }}" {% if subitem.link_conditions %}{{ subitem.link_conditions }}{% endif %}{% if subitem.subhovertitle %}title="{{ subitem.subhovertitle }}"{% endif %}{% if subitem.sublink == realurl %}class="active"{% endif %}>{% if subitem.subicon %}{{ subitem.subicon }}{% endif %} {{ subitem.subtitle }}</a>
          {% endfor %}
     </div>
   </div>

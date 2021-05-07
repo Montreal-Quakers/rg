@@ -7,10 +7,10 @@ trans: contact
 
 Here are the contacts for each meeting, responsible for distributing information, rideshares, and the like:
 
-* Montreal: David Summerhays, regional gathering clerk  
-* Peterborough: Steve Ginley and Anne Trudell  
+* [Montreal](https://montreal.quaker.ca/contact){: rel="noopener" target="_blank"}: David Summerhays, regional gathering clerk  
+* [Peterborough](mailto:info@peterborough.quaker.ca): Steve Ginley and Anne Trudell  
 * Thousand Islands: [Clerk](https://quaker.ca/meeting/thousand-islands-monthly-meeting/)  
-* Ottawa: Sybil Grace  
+* [Ottawa](https://ottawa.quaker.ca/Find-Us){:rel="noopener" target="_blank"}: Sybil Grace  
 * Wooler: [Clerk](https://quaker.ca/meeting/wooler-monthly-meeting/){: rel="noopener" target="_blank"}  
 
 Write us at [clerk@stlawrence.quaker.ca](mailto:clerk@stlawrence.quaker.ca) or you’re welcome to use the <i class="fas fa-pencil-alt"></i> contact form below. Here is our [Privacy Policy](privacy.html). 
