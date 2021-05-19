@@ -1,5 +1,5 @@
 ---
-title: Regional Gathering program
+title: Spring RG 2020 program
 lang: en
 author: Regional Gathering clerk
 tags: [announcements,events]

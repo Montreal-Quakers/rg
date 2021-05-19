@@ -1,7 +1,7 @@
 ---
 lang: en
 author: Regional Gathering clerk
-tag: [photos,gathering]
+tag: [photos,gathering,2020]
 type: system_grid
 ---
 Three poems, from [Caroline](#caroline), [Rosemarie](#rosemarie), and [Bert](#bert) and then the [photos](#photos).

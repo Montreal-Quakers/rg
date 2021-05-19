@@ -1,5 +1,5 @@
 ---
-title: "À mettre dans vos agendas: le 17 october, 10-13h"
+title: "À mettre dans vos agendas: le 17 october, 2020, 10-13h"
 lang: fr
 author: Modérateur du rassemblement régional
 tags: photos,rassemblement

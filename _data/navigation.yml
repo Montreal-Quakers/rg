@@ -2,7 +2,7 @@ en:
 - title: About Regional Gathering
   subtitle: About Regional Gathering
   icon: <i class='far fa-address-card'></i>
-  link: /rg.html
+  link: /rg
 - title: Our Meetings
   subtitle: Where We Meet
   icon: <i class='fas fa-map-marker-alt'></i>
@@ -26,19 +26,21 @@ en:
   subtitle: Information for the next Regional Gathering
   submenu:
     - subtitle: Program
-      sublink: /rg2020-fall_program.html
+      sublink: /next_rg_program
+    - subtitle: Children's Program
+      sublink: /next_rg_childrens_program
     - subtitle: Registration
-      sublink: /rg2020-fall_registration.html
+      sublink: /next_rg_registration
     - subtitle: Directions
-      sublink: /rg2020-fall_directions.html
+      sublink: /next_rg_directions
 - title: Contact Us
-  link: /contact.html
+  link: /contact
   icon: <i class='far fa-envelope-open'></i>
 
 fr:
 - title: À propos du rassemblement
   icon: <i class='far fa-address-card'></i>
-  link: /rr-fr.html
+  link: /rr-fr
 - title: Nos assembées
   subtitle: Trouvez nos assemblées
   icon: <i class='fas fa-map-marker-alt'></i>
@@ -54,5 +56,5 @@ fr:
     - subtitle: Thousand Islands
       sublink: http://kingston.quaker.ca/
 - title: Contact
-  link: /contact-fr.html
+  link: /contact-fr
   icon: <i class='far fa-envelope-open'></i>

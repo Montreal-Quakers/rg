@@ -1,5 +1,5 @@
 ---
-title: Regional Gathering at Sylvia Powers's farm
+title: RG 2019 at Sylvia Powers's farm
 lang: en
 author: Regional Gathering clerk
 tags: [announcement, event]

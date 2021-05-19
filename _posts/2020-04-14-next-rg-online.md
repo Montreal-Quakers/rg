@@ -1,5 +1,5 @@
 ---
-title: Next Regional Gathering online
+title: Regional Gathering 2020 online
 lang: en
 author: Regional Gathering clerk
 tags: [announcements,events]

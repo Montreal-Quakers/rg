@@ -1,7 +1,8 @@
 ---
 lang: en
-title: <i class="far fa-newspaper color-1-dark-text"></i> Next Regional Gathering Program
-trans: rg_prog
+trans: preliminary-agenda-2021
+title: "Regional Gathering: June 18-19, 2021 Agenda & children's agenda outline"
+tags: [program,2021,draft,zoom]
 ---
 Dear Regional Gatherers,
 
@@ -9,15 +10,15 @@ Dear Regional Gatherers,
 
 Montreal Meeting's regional gathering committee and Peterborough's children's committee have been busy! We have much to tell you about Regional Gathering the evening of Friday, June 18th and Saturday June 19th, 2021.
 
-* Children's program ([follow this link](/next_rg_childrens_program))
+* Children's program ([follow this link](/next_rg_childrens_program)
 * Regional Gathering program (below)
 * RSVP information (just show up but let us know if you can)
 * Zoom info [contact us](/contact)
 
-## 1) Children's agenda  
-[See the children's agenda outline here](/next_rg_childrens_program) -- it's not very detailed, but it's a general idea. Please contact us ASAP if you might invite a young person of any age below 18 to be with us for Regional Gathering, 2021! This can be modified to suit the people coming, and can also be put into action fairly last minute.
+1) Children's agenda  
+[See the children's agenda outline here]() -- it's not very detailed, but it's a general idea. Please contact us ASAP if you might invite a young person of any age below 18 to be with us for Regional Gathering, 2021! This can be modified to suit the people coming, and can also be put into action fairly last minute.
 
-## 2) Regional Gathering agenda  
+2) Regional Gathering agenda  
 Below is the draft agenda for the Regional Gathering. More details, such as precise guests and videos, will follow near the end of May, but the time slots are fairly precise
 
 Provisional program:
@@ -32,10 +33,10 @@ Saturday, June 19
 12:30 - 2 pm -  Spiritual creativity and contemplation: Contemplative walk and sharing of photos, poems, memories or other creations about water, followed by worship sharing  
 2 - 2:30 pm - Business meeting and closing worship  
 
-## 3) RSVP information
+3) RSVP information
 If you're excited and planning to come, you're welcome to just show up, but if you have a moment, please [contact us](/contact), just to let us know.
 
-## 4) Zoom information
+4) Zoom information
 [Contact us](/contact) for the Zoom information.
 
-PS Feel free to watch the website for updates!
+PS Feel free to watch the website for updates (will be updated soon)!

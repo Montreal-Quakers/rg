@@ -1,5 +1,5 @@
 ---
-title: Prochain rassemblement régional
+title: Rassemblement régional 2020
 lang: fr
 author: Secrétaire du rassemblement régional
 tags: [annonces,événements]

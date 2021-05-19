@@ -1,5 +1,5 @@
 ---
-title: "Save the date: October 17th, 9am-noon"
+title: "Save the date: October 17th, 2020, 9am-noon"
 lang: en
 author: Regional Gathering Clerk
 tags: photos,gathering
