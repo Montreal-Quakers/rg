@@ -1,7 +1,7 @@
 ---
 lang: en
 trans: preliminary-agenda-2021
-title: "Regional Gathering: June 18-19, 2021 Agenda & children's agenda outline"
+title: "June 18-19, 2021 Agenda Outline"
 tags: [program,2021,draft,zoom]
 ---
 Dear Regional Gatherers,
