@@ -1,6 +1,6 @@
 ---
 lang: en
-title: <i class="far fa-newspaper color-1-dark-text"></i> Next Regional Gathering Program
+title: <i class="far fa-newspaper color-1-dark-text"></i> Spring 2021 Regional Gathering Program
 trans: rg_prog
 ---
 Dear Regional Gatherers,
