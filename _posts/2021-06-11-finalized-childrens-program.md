@@ -1,7 +1,7 @@
 ---
+title: "Regional Gathering June 2021, Children’s Program"
+tags: [childrens,2021,spring,program]
 lang: en
-title: <i class="far fa-newspaper color-1-dark-text"></i> Spring 2021 Regional Gathering Children's Program
-trans: rg_childrens_prog
 ---
 Regional Gathering June 2021, Children’s Program
 
