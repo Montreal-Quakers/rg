@@ -5,7 +5,7 @@ author: Regional Gathering clerk
 tag: [photos,gathering,2021]
 type: system_grid
 ---
-The readings from today's gathering will be posted here. Below that, the [photos](#photos)!
+The readings from today's gathering will be posted here. During the gathering, a resource sheet was kept for [information and speakers relating to water and rivers](https://docs.google.com/document/d/1cwJ-to0Oj8m_MNR1fJoQzig-jb78U0LOjVOXZUbsmLk/edit#){: rel="noopener" target="_blank"}. Below that, the [photos](#photos)!
 
 ### Photos<span class="stanchor"><a name="photos"> </a></span>
 <div class="gallery"><ul class="gallery__list">
