@@ -1,7 +1,7 @@
 ---
 title: Prelminary program for fall Regional Gathering
 lang: en
-author: Regional Gathering clerk
+author: Regional Gathering Admin
 ---
 Hello regional gatherers!
 

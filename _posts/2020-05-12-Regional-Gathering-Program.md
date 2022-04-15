@@ -1,7 +1,7 @@
 ---
 title: Spring RG 2020 program
 lang: en
-author: Regional Gathering clerk
+author: Regional Gathering Admin
 tags: [announcements,events]
 ---
 A registration form is available [here](https://forms.gle/v7ntj4iipz3BNfDf9){: target="_blank"}.

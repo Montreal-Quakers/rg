@@ -1,7 +1,7 @@
 ---
 title: "Photos from the Contemplative Walk: Regional Gathering 2021"
 lang: en
-author: Regional Gathering clerk
+author: Regional Gathering Admin
 tag: [photos,gathering,2021]
 type: system_grid
 ---

@@ -1,6 +1,6 @@
 ---
 lang: en
-author: Regional Gathering clerk
+author: Regional Gathering Admin
 tag: [photos,gathering,2020]
 type: system_grid
 ---

@@ -1,7 +1,7 @@
 ---
 title: Regional Gathering 2020 online
 lang: en
-author: Regional Gathering clerk
+author: Regional Gathering Admin
 tags: [announcements,events]
 ---
 

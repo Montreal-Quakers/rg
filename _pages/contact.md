@@ -7,7 +7,7 @@ trans: contact
 
 Here are the contacts for each meeting, responsible for distributing information, rideshares, and the like:
 
-* [Montreal](https://montreal.quaker.ca/contact){: rel="noopener" target="_blank"}: David Summerhays, regional gathering clerk  
+* [Montreal](https://montreal.quaker.ca/contact){: rel="noopener" target="_blank"}: David Summerhays, regional gathering administrator (can be reached via the form below)  
 * [Peterborough](mailto:info@peterborough.quaker.ca): Steve Ginley and Anne Trudell  
 * Thousand Islands: [Clerk](https://quaker.ca/meeting/thousand-islands-monthly-meeting/)  
 * [Ottawa](https://ottawa.quaker.ca/Find-Us){:rel="noopener" target="_blank"}: Sybil Grace  

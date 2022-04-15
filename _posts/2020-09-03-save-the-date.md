@@ -1,7 +1,7 @@
 ---
 title: "Save the date: October 17th, 2020, 9am-noon"
 lang: en
-author: Regional Gathering Clerk
+author: Regional Gathering Admin
 tags: photos,gathering
 trans: 2020fallrg-post
 ---

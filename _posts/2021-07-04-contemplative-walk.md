@@ -1,7 +1,7 @@
 ---
 title: "Texts from the Contemplative Walk by Water: Regional Gathering 2021"
 lang: en
-author: Regional Gathering clerk
+author: Regional Gathering Admin
 tag: [meditative,walk,gathering,2021]
 ---
 On June 19, 2021, St. Lawrence Regional Gathering took a contemplative walk after a morning hearing about the construction of the St. Lawrence Seaway and its impact on the life of Kahnwake.  We had also heard an explanation of legal issues under discussion about the personhood of rivers.  For this contemplative exercise, walkers were encouraged to walk by water if they could.

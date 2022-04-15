@@ -41,7 +41,7 @@ description: Monthly Events Introducing Quakers
 tags: [introduction, learning]
 lang: en
 trans: intro2us
-author: clerk
+author: admin
 ---
 ```
 5. In the "front matter" (the text separated by three dashes ```---```)

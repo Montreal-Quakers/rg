@@ -1,7 +1,7 @@
 ---
 title: RG 2019 at Sylvia Powers's farm
 lang: en
-author: Regional Gathering clerk
+author: Regional Gathering Admin
 tags: [announcement, event]
 ---
 You will see that we will start at the Ottawa Meetinghouse on Friday at 5:30 and end on Sunday after potluck at 12:45, or if you can stay for David Bucura's talk, it will end at 1:45.  

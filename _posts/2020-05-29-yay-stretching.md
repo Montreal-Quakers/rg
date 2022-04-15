@@ -1,7 +1,7 @@
 ---
 title: Yay stretching!
 lang: en
-author: Regional Gathering clerk
+author: Regional Gathering Admin
 tags: [announcements,events,registration,2020]
 ---
 To minimize screen fatigue we will:
