@@ -4,7 +4,7 @@ title: <i class="far fa-newspaper color-1-dark-text"></i> Spring 2022 Regional G
 trans: rg_prog
 description: "Theme: Relevance of the Peace Testimony to Political Protest"
 ---
-The topic for Regional Gathering's meeting is "Relevance of the Peace Testimony to Political Protest." On Friday we will view two QuakerSpeak videos, followed by peace songs. On Saturday an individual from each Meeting will share his or her personal story about involvement in political protest or civil disobedience. Queries and general discussion in breakout rooms will follow each presentation.
+The topic for Regional Gathering's meeting is "Relevance of the Peace Testimony to Political Protest." On Friday we will view two QuakerSpeak videos, followed by peace songs. On Saturday an individual from each Meeting will share their personal story about involvement in political protest or civil disobedience. Queries and general discussion in breakout rooms will follow each presentation.
 
 There will be an invitation to children/youth as well to participate, as they can, through a query specific to them.
 
