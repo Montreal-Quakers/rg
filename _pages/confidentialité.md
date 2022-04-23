@@ -4,7 +4,7 @@ lang: fr
 trans: privacy
 ---
 ### Qui nous sommes
-Nous sommes l'Assemblée Quaker de Montréal. L’adresse de notre site Web est la suivante: https://montreal.quaker.ca.
+Nous sommes le Rassemblement régional Saint-Laurent. L’adresse de notre site Web est la suivante: [https://stlawrence.quaker.ca](https://stlawrence.quaker.ca){: rel="noopener" target="_blank"}.
 
 ### Formulaires de contact
 Si vous remplissez un formulaire de contact, ces informations pourront être conservées indéfiniment dans notre courriel. Vous pouvez demander sa suppression.
@@ -22,4 +22,4 @@ Utilisez le formulaire de [contact](contact-fr.md).
 
 ### License
 
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"><img alt="Licence Creative Commons" class="img_center" style="border-width:0" src="/assets/images/cc_logo.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"><img alt="Licence Creative Commons" class="img_center" rel="noopener" target="_blank" style="border-width:0" src="/assets/images/cc_logo.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.

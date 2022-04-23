@@ -2,7 +2,7 @@ en:
 - title: About Regional Gathering
   subtitle: About Regional Gathering
   icon: <i class='far fa-address-card'></i>
-  link: /rg
+  link: /about
 - title: Our Meetings
   subtitle: Where We Meet
   icon: <i class='fas fa-map-marker-alt'></i>
@@ -40,7 +40,7 @@ en:
 fr:
 - title: À propos du rassemblement
   icon: <i class='far fa-address-card'></i>
-  link: /rr-fr
+  link: /a_propos
 - title: Nos assembées
   subtitle: Trouvez nos assemblées
   icon: <i class='fas fa-map-marker-alt'></i>
