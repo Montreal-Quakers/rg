@@ -24,15 +24,16 @@ en:
       link_conditions: 'rel="noopener" target="_blank"'
 - title: Next Gathering
   subtitle: Information for the next Regional Gathering
-  submenu:
-    - subtitle: Program
-      sublink: /next_rg_program
-    - subtitle: Children's Program
-      sublink: /next_rg_childrens_program
-    - subtitle: Registration
-      sublink: /next_rg_registration
-    - subtitle: Directions
-      sublink: /next_rg_directions
+  link: /next_rg_program
+      #  submenu:
+      #    - subtitle: Program
+      #      sublink: /next_rg_program
+      #    - subtitle: Children's Program
+      #      sublink: /next_rg_childrens_program
+      #    - subtitle: Registration
+      #      sublink: /next_rg_registration
+      #    - subtitle: Directions
+      #      sublink: /next_rg_directions
 - title: Contact Us
   link: /contact
   icon: <i class='far fa-envelope-open'></i>
