@@ -56,6 +56,9 @@ fr:
       sublink: https://quaker.ca/meeting/wooler-monthly-meeting/
     - subtitle: Thousand Islands
       sublink: http://kingston.quaker.ca/
+- title: Prochain rassemblement
+  subtitle: Des informations au sujet du prochain rassemblement régional
+  link: /prochain_rr_programme
 - title: Contact
   link: /contact-fr
   icon: <i class='far fa-envelope-open'></i>
