@@ -8,7 +8,7 @@ The online regional gathering for the St. Lawrence region will take place on Jun
 
 [Contact us](/contact) for a Zoom link.
 
-| 10:30 AM | 11 AM | **Icebreaker led** |
+| 10:30 AM | 11 AM | **Icebreaker** |
 | 11 AM | 12 PM | **Meeting for Worship** |
 | 12 PM | 1 PM | **Lunch Break** |
 | 1:00 PM | 3:00 PM | **Genderqueer workshop** |
