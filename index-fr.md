@@ -5,7 +5,7 @@ lang: fr
 trans: index
 
 ---
-Ce site web contient les mises à jour au sujet du [Rassemblement régional Saint-Laurent des Quakers](/rr-fr.html). [Remplissez le formulaire de contact](/contact-fr) pour recevoir des mises à jour par courriel. Cet événement a lieu principalement en anglais.
+Ce site web contient les mises à jour au sujet du [Rassemblement régional Saint-Laurent des Quakers](/index-fr.html). [Remplissez le formulaire de contact](/contact-fr) pour recevoir des mises à jour par courriel. Cet événement a lieu principalement en anglais.
 
 {% include posts.html %}
 {% comment %}

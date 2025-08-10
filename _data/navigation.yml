@@ -14,7 +14,7 @@ en:
       sublink: https://montreal.quaker.ca
       link_conditions: 'rel="noopener" target="_blank"'
     - subtitle: Peterborough
-      sublink: https://www.peterborough.quaker.ca/
+      sublink: https://peterborough.quaker.ca/
       link_conditions: 'rel="noopener" target="_blank"'
     - subtitle: Wooler
       sublink: https://quaker.ca/meeting/wooler-monthly-meeting/
@@ -51,7 +51,7 @@ fr:
     - subtitle: Montreal
       sublink: https://montreal.quaker.ca/fr/accueil/
     - subtitle: Peterborough
-      sublink: http://www.peterborough.quaker.ca/
+      sublink: http://peterborough.quaker.ca/
     - subtitle: Wooler
       sublink: https://quaker.ca/meeting/wooler-monthly-meeting/
     - subtitle: Thousand Islands
