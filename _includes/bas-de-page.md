@@ -1,7 +1,7 @@
 
-### {{ site.title-fr }} 
+### {{ site.title-fr }}
 
-[Accueil](/index-fr) &nbsp;[À propos](/a_propos) &nbsp;[Contact](/contact-fr)
+[Accueil](/index-fr) &nbsp;[Home](/index) &nbsp;[À propos](/a_propos) &nbsp;[Contact](/contact-fr)
 
 <br>
 [![License CC](/assets/images/cc_logo.png){: img_center}](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)
