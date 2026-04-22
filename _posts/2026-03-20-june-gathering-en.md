@@ -58,6 +58,5 @@ Please [contact us](/contact) with any concerns or questions. We can also share 
 |  2:30 pm | **Boat cruise for those who want to go** |
 
 Note: The Free time seems like an essential component of Regional Gathering. It is social time, time for discussions, or preparation or practicing for Olio Show. Someone may want to offer an interest group during a free time.
-But it's ok if that doesn’t happen because much is already being offered. Some may want to
-do some watercolor painting, sketching, or journaling. And both Free Times come an
-hour before the meals when some people will be getting the meals together.
+
+But it's ok if that doesn’t happen because much is already being offered. Some may want to do some watercolor painting, sketching, or journaling. And both Free Times come an hour before the meals when some people will be getting the meals together.
